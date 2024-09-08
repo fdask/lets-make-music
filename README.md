@@ -1,3 +1,5 @@
+![Abstract header logo for Lets Make Music](./lets-make-music.png)
+
 Lets Make Music
 --
 REPO to hold my musical meanderings, depicted by tabs.
